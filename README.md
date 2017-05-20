@@ -1,4 +1,2 @@
-Jekyll Bootstrap Doc
+Abu Bakr Soliman
 ====================
-
-http://mistic100.github.io/jekyll-bootstrap-doc
